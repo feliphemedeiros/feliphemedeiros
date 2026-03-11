@@ -20,9 +20,11 @@ Gosto de aprender criando projetos práticos e explorando soluções que conecta
 
 ### 🚀 Projetos
 
-📦 Sistema de aluguel de residências
+📦 Sistema de aluguel de residências  
+Sistema para gerenciamento de clientes, pagamentos e contratos.
 
-🖥️ Ferramentas de diagnóstico de hardware
+🖥️ Ferramentas de diagnóstico de hardware  
+Scripts e ferramentas para testar e identificar problemas em computadores.
 
 
 ---
@@ -131,5 +133,7 @@ Gosto de aprender criando projetos práticos e explorando soluções que conecta
   />
 
 </p>
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=feliphemedeiros&show_icons=true&theme=tokyonight)
 
 

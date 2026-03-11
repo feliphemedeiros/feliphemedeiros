@@ -20,11 +20,11 @@ Gosto de aprender criando projetos práticos e explorando soluções que conecta
 
 ### 🚀 Projetos
 
-📦 Sistema de aluguel de residências (Desenvolvimento)
+📦 Sistema de aluguel de residências<br/>
 Sistema para gerenciamento de clientes, pagamentos e controle de contratos de aluguel.
 
 
-📊 Controle de garantia de produtos  
+📊 Controle de garantia de produtos<br/>
 Sistema desenvolvido para organizar prazos de garantia, facilitando o controle e atendimento ao cliente.
 
 

@@ -21,10 +21,11 @@ Gosto de aprender criando projetos práticos e explorando soluções que conecta
 ### 🚀 Projetos
 
 📦 Sistema de aluguel de residências  
-Sistema para gerenciamento de clientes, pagamentos e contratos.
+Sistema para gerenciamento de clientes, pagamentos e controle de contratos de aluguel.
 
-🖥️ Ferramentas de diagnóstico de hardware  
-Scripts e ferramentas para testar e identificar problemas em computadores.
+
+📊 Controle de garantia de produtos  
+Sistema desenvolvido para organizar prazos de garantia, facilitando o controle e atendimento ao cliente.
 
 
 ---
@@ -134,6 +135,5 @@ Scripts e ferramentas para testar e identificar problemas em computadores.
 
 </p>
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=feliphemedeiros&show_icons=true&theme=tokyonight)
 
 

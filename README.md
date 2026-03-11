@@ -1,5 +1,7 @@
 # 👨🏽‍💻 Felipe Medeiros
 
+
+
 **`Futuro Desenvolvedor`**
 
 💻 ADS Student | ⚙️ Hardware Enthusiast | ☁️ Cloud & Cybersecurity
@@ -16,7 +18,11 @@ Gosto de aprender criando projetos práticos e explorando soluções que conecta
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/feliphemedeiros)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliphemedeiros/)
 
+### 🚀 Projetos
 
+📦 Sistema de aluguel de residências
+
+🖥️ Ferramentas de diagnóstico de hardware
 
 
 ---
@@ -123,11 +129,7 @@ Gosto de aprender criando projetos práticos e explorando soluções que conecta
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliphemedeiros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=feliphemedeiros&show_icons=true&theme=tokyonight" 
-  />
+
 </p>
+
 

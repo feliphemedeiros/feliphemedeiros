@@ -4,7 +4,7 @@
 
 **`Futuro Desenvolvedor`**
 
-💻 Tecnologia | ⚙️ Hardware | ☁️ Cloud & Cybersecurity
+💻 Tecnologia | ⚙️ Hardware | ☁️ Vibe Coding
 
 Me chamo Felipe Medeiros e sou apaixonado por tecnologia. Sou curioso e gosto de entender como as coisas funcionam, principalmente quando posso transformar uma ideia em uma solução prática.
 
@@ -21,10 +21,6 @@ Não sigo apenas um caminho na tecnologia. Estou sempre aprendendo, testando e c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliphemedeiros/)
 
 ### 🚀 Projetos
-
-📦 Sistema de aluguel de residências (Desenvolvimento)<br/>
-Sistema para gerenciamento de clientes, pagamentos e controle de contratos de aluguel.
-
 
 📊 Controle de garantia de produtos<br/>
 Sistema desenvolvido para organizar prazos de garantia, facilitando o controle e atendimento ao cliente.

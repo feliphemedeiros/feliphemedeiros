@@ -25,7 +25,7 @@ Não sigo apenas um caminho na tecnologia. Estou sempre aprendendo, testando e c
 📊 Controle de garantia de produtos<br/>
 Sistema desenvolvido para organizar prazos de garantia, facilitando o controle e atendimento ao cliente.
 
-📊 Traco-Certo<br/>
+📊 Traço-Certo<br/>
 O Traço Certo é uma ferramenta web criada para facilitar o trabalho de gravação a laser.
 
 

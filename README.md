@@ -2,8 +2,6 @@
 
 
 
-**`Futuro Desenvolvedor`**
-
 💻 Tecnologia | ⚙️ Hardware | ☁️ Vibe Coding
 
 Me chamo Felipe Medeiros e sou apaixonado por tecnologia. Sou curioso e gosto de entender como as coisas funcionam, principalmente quando posso transformar uma ideia em uma solução prática.

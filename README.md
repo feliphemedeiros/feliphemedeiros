@@ -4,13 +4,15 @@
 
 **`Futuro Desenvolvedor`**
 
-💻 ADS Student | ⚙️ Hardware Enthusiast | ☁️ Cloud & Cybersecurity
+💻 Tecnologia | ⚙️ Hardware | ☁️ Cloud & Cybersecurity
 
-Me chamo Felipe Medeiros e sou apaixonado por tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) e desenvolvendo minhas habilidades em programação e infraestrutura de TI.
+Me chamo Felipe Medeiros e sou apaixonado por tecnologia. Sou curioso e gosto de entender como as coisas funcionam, principalmente quando posso transformar uma ideia em uma solução prática.
 
-Tenho experiência com manutenção e diagnóstico de hardware, o que me deu uma base sólida sobre o funcionamento dos computadores. Hoje busco evoluir como desenvolvedor, explorando áreas como automação, cloud e cibersegurança.
+Tenho experiência com manutenção e diagnóstico de hardware e, atualmente, venho explorando cada vez mais programação.
 
-Gosto de aprender criando projetos práticos e explorando soluções que conectam hardware, software e inovação.
+Gosto de aprender na prática e uso ferramentas como Vibe Coding para criar soluções, automatizar tarefas e resolver problemas do dia a dia — muitas vezes transformando uma necessidade simples em um projeto.
+
+Não sigo apenas um caminho na tecnologia. Estou sempre aprendendo, testando e criando. 🚀
 
 
 
